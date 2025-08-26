@@ -7,4 +7,4 @@ Developed a DeepSeek AI Clone using Node.js, Express, MongoDB, TailwindCSS, and 
 
 ![image alt]()
 
-![image alt]()
+![image alt](https://github.com/Ankit-kumar77177/Deepseek-AI-PROJECT/blob/main/LOGIN%20SUCCESS.png?raw=true)
